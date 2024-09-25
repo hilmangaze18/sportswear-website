@@ -199,8 +199,9 @@ body {
 
 .harga .row .harga-card {
   text-align: center;
-  padding-top: 3rem;
-  margin: 0 4rem;
+  padding-top: 1rem;
+  margin: 0 5rem;
+  /* background-color: #d8f847; */
 }
 
 .harga .row .harga-card img {
